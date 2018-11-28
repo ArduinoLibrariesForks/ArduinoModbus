@@ -1,0 +1,18 @@
+{
+    "name": "ArduinoModbus",
+    "provides": "ArduinoModbus.h",
+    "description": "Use Modbus equipment with your Arduino.",
+    "version": "1.0.0",
+    "maintainer": "Arduino <info@arduino.cc>",
+    "category": "Communications",
+    "subcategory": "Serial",
+    "family": "all",
+    "core": "all",
+    "install": {
+        "examples": "/",
+        "keywords.txt": "/",
+        "library.properties": "/",
+        "src": "/"
+    },
+    "readme": "README.adoc"
+}
